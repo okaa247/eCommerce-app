@@ -168,13 +168,12 @@ LOGIN_REDIRECT_URL = "/"
 # SOCIALACCOUNT_PROVIDERS = {
 #     'google': {
 #         'APP': {
-#             'client_id': '642147200134-3u0quqto6f1cptv9rd8mv8m2ps66sgmc.apps.googleusercontent.com',
-#             'secret': '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',
+#             'client_id': '',
+#             'secret': '',
 #             'key': ''
 #         }
 #     }
 # }
 
 
-# client_ID = '642147200134-3u0quqto6f1cptv9rd8mv8m2ps66sgmc.apps.googleusercontent.com'
-# Client_secret = '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'
+
